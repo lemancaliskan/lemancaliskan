@@ -4,7 +4,7 @@
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/lemancaliskan/">
 
-<img src="https://imgyukle.com/f/2022/08/24/nuR40P.png"></a>
+<img src="https://i.ibb.co/0JZvJwj/3225190-app-linkedin-logo-media-popular-icon.png"></a>
 
 
 <!--
