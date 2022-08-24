@@ -2,9 +2,7 @@
 
 - 🌱 I’m currently learning  Python, Java, C#
 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/lemancaliskan/">
-
-<img src="https://i.ibb.co/zr50D0J/3225190-app-linkedin-logo-media-popular-icon-4.png"></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/lemancaliskan/"><img src="https://i.ibb.co/zr50D0J/3225190-app-linkedin-logo-media-popular-icon-4.png"></a>
 
 
 <!--
