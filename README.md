@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Leman 👩‍💻
+### Hi there 👋🏻 I'm Leman 👩🏻‍💻
 
 - 🌱 I’m currently learning  Python, Java, C#
 
