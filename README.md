@@ -6,7 +6,7 @@
 
 - 🎨 Hobbies: Learning languages | Reading webtoon/manga | Travelling | Puzzle | Trekking | Yoga | Football
 
-- 🌍 Languages: Turkish 🔵🔵🔵🔵🔵 | English 🔵🔵🔵🔵⚪️ | Korean 🔵🔵🔵⚪️⚪️ | Russian 🔵🔵⚪⚪️⚪
+- 🌍 Languages: Turkish 🟣🟣🟣🟣🟣 | English 🟣🟣🟣🟣⚪️ | Korean 🟣🟣🟣⚪️⚪️ | Russian 🟣🟣⚪⚪️⚪
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/lemancaliskan/"> <img src="https://i.ibb.co/zr50D0J/3225190-app-linkedin-logo-media-popular-icon-4.png"></a>
 
