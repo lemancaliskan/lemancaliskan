@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋🏻, I'm Leman 👩🏻‍💻</h1>
 <h3 align="center"> A passionate programmer from Turkiye <img src="https://i.ibb.co/DzNQh5P/istanbul-1.png" alt="designed by Freepik border="0"></h3>
 
-- 🎓 Education: &nbsp;**Trakya University - Political Science and Public Administration | Anadolu University - Management Information Systems**
+<h4 align="center">
 
-- 🌍 Languages: &nbsp;**Turkish 🟣🟣🟣🟣🟣 | English 🟣🟣🟣🟣⚪️ | Korean 🟣🟣🟣⚪️⚪️ | Russian 🟣🟣⚪⚪️⚪**
+🎓 Education: &nbsp;**Trakya University - Political Science and Public Administration &nbsp;&nbsp;|&nbsp;&nbsp; Anadolu University - Management Information Systems**
 
-- 🎨 Hobbies: &nbsp;**Learning languages | Reading webtoon/manga | Travelling | Puzzle | Trekking | Yoga | Football**
+🌍 Languages: &nbsp;**Turkish 🟣🟣🟣🟣🟣 &nbsp;|&nbsp; English 🟣🟣🟣🟣⚪️ &nbsp;|&nbsp; Korean 🟣🟣🟣⚪️⚪️ &nbsp;|&nbsp; Russian 🟣🟣⚪⚪️⚪**
 
-- 📫 How to reach me: &nbsp; <a href="mailto: jmleman95@gmail.com"><img src="https://i.ibb.co/q9bYK0Q/Gmail-Logo-16px.png" alt="Gmail-Logo-16px" border="0"></a>
+🎨 Hobbies: &nbsp;**Learning languages &nbsp;|&nbsp; Reading webtoon/manga &nbsp;|&nbsp; Travelling &nbsp;|&nbsp; Puzzle &nbsp;|&nbsp; Trekking &nbsp;|&nbsp; Yoga &nbsp;|&nbsp; Football**
 
+📫 How to reach me: &nbsp; <a href="mailto: jmleman95@gmail.com"><img src="https://i.ibb.co/q9bYK0Q/Gmail-Logo-16px.png" alt="Gmail-Logo-16px" border="0"></a>
+</h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lemancaliskan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lemancaliskan" height="30" width="40" /></a>
