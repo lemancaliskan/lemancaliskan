@@ -9,7 +9,6 @@
 
 🎨 Hobbies: &nbsp;**Learning languages &nbsp;|&nbsp; Reading webtoon/manga &nbsp;|&nbsp; Travelling &nbsp;|&nbsp; Puzzle &nbsp;|&nbsp; Trekking &nbsp;|&nbsp; Yoga &nbsp;|&nbsp; Football**
 
-📫 How to reach me: &nbsp; <a href="mailto: jmleman95@gmail.com"><img src="https://i.ibb.co/q9bYK0Q/Gmail-Logo-16px.png" alt="Gmail-Logo-16px" border="0"></a>
 </h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
