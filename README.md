@@ -27,17 +27,3 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemancaliskan&show_icons=true&theme=dark_lilac&langs_count=8)](https://github.com/lemancaliskan/github-readme-stats)
   
-  
-<a href="https://github.com/lemancaliskan/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lemancaliskan&show_icons=true&theme=dark_lilac" />
-</a>
-  
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lemancaliskan&show_icons=true&theme=dark_lilac&exclude_repo=github-readme-stats,lemancaliskan.github.io)">
-  <img align="center" src="https://github.com/lemancaliskan/github-readme-stats" />
-</a>
-  
-<a href="#">
-  <img align="center" src="#" />
-</a>
-
-
