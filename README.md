@@ -32,7 +32,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lemancaliskan&show_icons=true&theme=dark_lilac" />
 </a>
   
-<a href="[#](https://github-readme-stats.vercel.app/api/top-langs/?username=lemancaliskan&show_icons=true&theme=dark_lilac&exclude_repo=github-readme-stats,lemancaliskan.github.io)">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lemancaliskan&show_icons=true&theme=dark_lilac&exclude_repo=github-readme-stats,lemancaliskan.github.io)">
   <img align="center" src="https://github.com/lemancaliskan/github-readme-stats" />
 </a>
   
