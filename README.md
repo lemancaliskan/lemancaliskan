@@ -22,4 +22,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=lemancaliskan&theme=dark&border_radius=3.5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
- 
+[![Leman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemancaliskan)](https://github.com/anuraghazra/github-readme-stats)
