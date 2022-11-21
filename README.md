@@ -23,3 +23,25 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=lemancaliskan&theme=dark&border_radius=3.5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Leman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemancaliskan)](https://github.com/lemancaliskan/github-readme-stats)
+
+![Leman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemancaliskan&hide=contribs,prs)
+  
+![Leman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemancaliskan&count_private=true)
+ 
+![Leman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemancaliskan&show_icons=true)
+  
+![Leman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemancaliskan&show_icons=true&theme=radical)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lemancaliskan&repo=github-readme-stats)](https://github.com/lemancaliskan/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemancaliskan)](https://github.com/lemancaliskan/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemancaliskan&exclude_repo=github-readme-stats,lemancaliskan.github.io)](https://github.com/lemancaliskan/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemancaliskan&hide=javascript,html)](https://github.com/lemancaliskan/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemancaliskan&langs_count=8)](https://github.com/lemancaliskan/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemancaliskan&layout=compact)](https://github.com/lemancaliskan/github-readme-stats)
+  
+[![Leman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lemancaliskan)](https://github.com/lemancaliskan/github-readme-stats)
