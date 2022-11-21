@@ -24,11 +24,11 @@
 
 ![Leman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemancaliskan&show_icons=true)
   
-![Leman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemancaliskan&show_icons=true&theme=radical)
+![Leman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemancaliskan&show_icons=true&theme=github_dark)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemancaliskan)](https://github.com/lemancaliskan/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemancaliskan&exclude_repo=github-readme-stats,lemancaliskan.github.io)](https://github.com/lemancaliskan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemancaliskan&show_icons=true&theme=github_dark&exclude_repo=github-readme-stats,lemancaliskan.github.io)](https://github.com/lemancaliskan/github-readme-stats)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemancaliskan&langs_count=8)](https://github.com/lemancaliskan/github-readme-stats)
   
