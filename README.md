@@ -27,10 +27,17 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemancaliskan&show_icons=true&theme=dark_lilac&langs_count=8)](https://github.com/lemancaliskan/github-readme-stats)
   
-<a href="[https://github.com/anuraghazra/github-readme-stats](https://streak-stats.demolab.com?user=lemancaliskan&sideNums=A777EA&background=0D1117&ring=B0A7B6&fire=8D65C5&currStreakNum=A777EA&currStreakLabel=B0A7B6&sideLabels=B0A7B6&dates=A777EA))">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://git.io/streak-stats)" />
+  
+<a href="#">
+  <img align="center" src="(https://github-readme-stats.vercel.app/api?username=lemancaliskan&show_icons=true&theme=dark_lilac)" />
 </a>
   
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="#">
+  <img align="center" src="#" />
 </a>
+  
+<a href="#">
+  <img align="center" src="#" />
+</a>
+
+
