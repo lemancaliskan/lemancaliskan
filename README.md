@@ -22,6 +22,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=lemancaliskan&sideNums=A777EA&background=0D1117&ring=B0A7B6&fire=8D65C5&currStreakNum=A777EA&currStreakLabel=B0A7B6&sideLabels=B0A7B6&dates=A777EA)](https://git.io/streak-stats) 
 ![Leman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemancaliskan&show_icons=true&theme=github_dark)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemancaliskan&show_icons=true&theme=github_dark)](https://github.com/lemancaliskan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemancaliskan&show_icons=true&theme=material-palenight)](https://github.com/lemancaliskan/github-readme-stats)
   
 
