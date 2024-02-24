@@ -3,9 +3,8 @@
 
 <h4 align="center">
 
-🌍 Languages: &nbsp;**Turkish 🟣🟣🟣🟣🟣 &nbsp;|&nbsp; English 🟣🟣🟣🟣🟣 &nbsp;|&nbsp; Korean 🟣🟣🟣🟣⚪️ &nbsp;|&nbsp; Russian 🟣🟣🟣⚪️⚪**
+🌍 Languages: &nbsp;**Turkish 🟣🟣🟣🟣🟣 &nbsp;|&nbsp; English 🟣🟣🟣🟣🟣 &nbsp;|&nbsp; Korean 🟣🟣🟣🟣⚪️ &nbsp;|&nbsp; Russian 🟣🟣🟣⚪️⚪ &nbsp;|&nbsp; Chinese 🟣🟣⚪️⚪**
 
-🎨 Hobbies: &nbsp;Learning languages &nbsp;|&nbsp; Reading webtoon/manga &nbsp;|&nbsp; Travelling &nbsp;|&nbsp; Trekking &nbsp;
 
 </h4>
 
