@@ -1,15 +1,57 @@
-<h1 align="center">Hi 👋, I'm Leman</h1>
-<h3 align="center">A passionate programmer from Türkiye <img src="https://i.ibb.co/DzNQh5P/istanbul-1.png" alt="designed by Freepik border="0"></h3>
+<h1 align="center">Hi 👋🏻, I'm Leman</h1>
+<h3 align="center">
+  A passionate programmer from Türkiye  
+  <img src="https://i.ibb.co/DzNQh5P/istanbul-1.png" alt="istanbul" width="25">
+</h3>
 
-- 📫 How to reach me **jmleman95@gmail.com**
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 📫 Reach Me
+**Email:** jmleman95@gmail.com
+
+---
+
+## ✨ About Me
+- 🌱 I’m currently improving myself in Python, Data Science and Machine Learning
+- ❤️ I enjoy working with data, creating meaningful insights and building clean analytical workflows
+- 🎯 My goal: becoming a strong data scientist / machine learning engineer
+
+  🌍 **Languages & Proficiency**
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/tr.svg" alt="turkeyflag" width="15"/> Turkish: ▮▮▮▮▮ &nbsp;|&nbsp; <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" alt="ukflag" width="15"/> English: ▮▮▮▮▮ &nbsp;|&nbsp; <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/kr.svg" alt="koreflag" width="15"/> Korean: ▮▮▮▮▯ &nbsp;|&nbsp; <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ru.svg" alt="russianflag" width="15"/> Russian: ▮▮▮▯▯</p>
+
+---
+
+## 🔧 Languages & Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" alt="bootstrap" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" alt="csharp" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="css3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" alt="dotnet" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" alt="figma" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="html5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="javascript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" alt="photoshop" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="postgresql" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="react" />
+</p>
+
+---
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LemanCaliskan&theme=aura&margin-w=15&margin-h=15" alt="trophy" />
+</p>
+
+---
 
 ## 🐍 GitHub Contribution Snake
-
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LemanCaliskan/LemanCaliskan/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LemanCaliskan/LemanCaliskan/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/LemanCaliskan/LemanCaliskan/output/github-snake.svg" />
 </picture>
+</p>
+
+---
