@@ -1,8 +1,10 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=19&pause=1000&color=38C2FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Leman;A+passionate+programmer+from+T%C3%BCrkiye+" alt="Typing SVG" /></a></h1>
 
-<h3 align="center">
- <img width="250" height="250" alt="image" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJkZjI2d3B6c2VpaDMycmR2d3U3cDZmczd6eXVvNG1ha2lwOTNubSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/okFG5aJWqRGMYXoKTD/giphy.webp" />
-</h3>
+<h1 align="center">Hi 👋🏻, I'm Leman 👩🏻‍💻
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=19&pause=1000&color=38C2FF&center=true&vCenter=true&width=435&lines=A+passionate+programmer+from+T%C3%BCrkiye" alt="Typing SVG" /></a></p>
+
+ <p align="center">
+ <img width="200" height="200" alt="image" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJkZjI2d3B6c2VpaDMycmR2d3U3cDZmczd6eXVvNG1ha2lwOTNubSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/okFG5aJWqRGMYXoKTD/giphy.webp" />
+</p></h1> 
 
 ---
 
@@ -63,3 +65,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LemanCaliskan/LemanCaliskanoutput/pacman-contribution-graph.svg">
 </picture>
 </p>
+
+
+
+
+  
