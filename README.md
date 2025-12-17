@@ -38,10 +38,10 @@
 </p>
 
 ---
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LemanCaliskan&theme=aura&margin-w=15&margin-h=15" alt="trophy" />
-</p>
+## 📊 GitHub Stats
+
+  ![Leman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemancaliskan&show_icons=true&theme=transparent)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemancaliskan&layout=donut&theme=transparent)](https://github.com/lemancaliskan/github-readme-stats)
 
 ---
 
@@ -54,4 +54,12 @@
 </picture>
 </p>
 
----
+--- 
+## 👻 GitHub Contribution Pacman
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LemanCaliskan/LemanCaliskan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LemanCaliskan/LemanCaliskan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LemanCaliskan/LemanCaliskanoutput/pacman-contribution-graph.svg">
+</picture>
+</p>
