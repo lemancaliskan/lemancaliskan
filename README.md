@@ -43,11 +43,8 @@
 
 ## 📊 GitHub Stats
 
-![Leman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemancaliskan&show_icons=true&theme=material-palenight&bg_color=00000000&count_private=true&cache_bust=1)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemancaliskan&layout=donut&theme=material-palenight&bg_color=00000000&count_private=true&cache_bust=1)](https://github.com/lemancaliskan/github-readme-stats)
-
-  ![Leman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemancaliskan&show_icons=true&theme=transparent&count_private=true&cache_bust=1)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemancaliskan&layout=donut&theme=transparent&count_private=true&cache_bust=1)](https://github.com/lemancaliskan/github-readme-stats)
+![Leman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemancaliskan&show_icons=true&theme=transparent&count_private=true&cache_bust=1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemancaliskan&layout=donut&theme=transparent&count_private=true&cache_bust=1)](https://github.com/lemancaliskan/github-readme-stats)
 
 ---
 
@@ -55,7 +52,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lemancaliskan&theme=react&hide_border=true&radius=5&height=300" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lemancaliskan&theme=react&bg_color=00000000&hide_border=true&radius=5&height=300" alt="Activity Graph" />
 
 </div>
 
