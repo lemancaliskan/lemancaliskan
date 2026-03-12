@@ -43,8 +43,11 @@
 
 ## 📊 GitHub Stats
 
-  ![Leman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemancaliskan&show_icons=true&theme=transparent)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemancaliskan&layout=donut&theme=transparent)](https://github.com/lemancaliskan/github-readme-stats)
+![Leman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemancaliskan&show_icons=true&theme=material-palenight&bg_color=00000000&count_private=true&cache_bust=1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemancaliskan&layout=donut&theme=material-palenight&bg_color=00000000&count_private=true&cache_bust=1)](https://github.com/lemancaliskan/github-readme-stats)
+
+  ![Leman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemancaliskan&show_icons=true&theme=transparent&count_private=true&cache_bust=1)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemancaliskan&layout=donut&theme=transparent&count_private=true&cache_bust=1)](https://github.com/lemancaliskan/github-readme-stats)
 
 ---
 
