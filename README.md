@@ -24,20 +24,16 @@
 ---
 
 ## 🔧 Languages & Tools
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" alt="bootstrap" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" alt="csharp" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="css3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" alt="dotnet" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" alt="figma" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="html5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="javascript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" alt="photoshop" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="postgresql" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="react" />
-</p>
+
+<div align="center">
+
+### 🛠️ Languages & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=py,cs,dotnet,js,react,sklearn,html,css,bootstrap,postgres,matlab)](https://skillicons.dev)
+
+### ⚙️ Tools & Software
+[![My Skills](https://skillicons.dev/icons?i=pycharm,visualstudio,vscode,git,androidstudio,figma,ps)](https://skillicons.dev)
+
+</div>
 
 ---
 
