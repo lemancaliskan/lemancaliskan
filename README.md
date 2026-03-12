@@ -28,13 +28,18 @@
 <div align="center">
 
 ### 🛠️ Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=py,cs,dotnet,js,react,sklearn,html,css,bootstrap,postgres,matlab)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,cs,dotnet,js,react,sklearn,html,css,bootstrap,postgres,matlab&theme=dark" height="40" />
+</a>
+
+<br/>
 
 ### ⚙️ Tools & Software
-[![My Skills](https://skillicons.dev/icons?i=pycharm,visualstudio,vscode,git,androidstudio,figma,ps)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=pycharm,visualstudio,vscode,git,androidstudio,figma,ps&theme=dark" height="40" />
+</a>
 
 </div>
-
 ---
 
 ## 📊 GitHub Stats
