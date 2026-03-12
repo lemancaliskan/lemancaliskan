@@ -9,7 +9,7 @@
 ---
 
 ### 📫 Reach Me
-<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="20" /></a> : jmleman95@gmail.com
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="25" align="center"/></a> : jmleman95@gmail.com
 
 ---
 
@@ -45,9 +45,10 @@
 
 ## 📊 GitHub Stats
 
-![Leman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemancaliskan&show_icons=true&bg_color=00000000&title_color=61DAFB&icon_color=61DAFB&text_color=8d93a5&count_private=true&cache_bust=1)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemancaliskan&layout=donut&bg_color=00000000&title_color=61DAFB&text_color=8d93a5&count_private=true&cache_bust=1)](https://github.com/lemancaliskan/github-readme-stats)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lemancaliskan&show_icons=true&bg_color=00000000&title_color=61DAFB&icon_color=61DAFB&text_color=8d93a5&count_private=true&cache_bust=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemancaliskan&layout=donut&bg_color=00000000&title_color=61DAFB&text_color=8d93a5&count_private=true&cache_bust=1" />
+</div>
 
 ---
 
