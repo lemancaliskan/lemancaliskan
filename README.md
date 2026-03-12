@@ -43,10 +43,12 @@
 
 ## 📊 GitHub Stats
 
-![Leman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemancaliskan&show_icons=true&theme=transparent&count_private=true&cache_bust=1)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemancaliskan&layout=donut&theme=transparent&count_private=true&cache_bust=1)](https://github.com/lemancaliskan/github-readme-stats)
+![Leman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemancaliskan&show_icons=true&bg_color=00000000&title_color=61DAFB&icon_color=61DAFB&text_color=8d93a5&count_private=true&cache_bust=1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemancaliskan&layout=donut&bg_color=00000000&title_color=61DAFB&text_color=8d93a5&count_private=true&cache_bust=1)](https://github.com/lemancaliskan/github-readme-stats)
+
 
 ---
+
 ## 📈 Activity Graph
 
 <div align="center">
@@ -56,10 +58,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=lemancaliskan&theme=react&bg_color=00000000&hide_border=true&radius=5&height=300" alt="Activity Graph">
   </picture>
 </div>
-
-
-
-
 
 ---
 
@@ -73,7 +71,3 @@
 </p>
 
 --- 
-
-
-
-  
