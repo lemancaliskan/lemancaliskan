@@ -9,7 +9,7 @@
 ---
 
 ### 📫 Reach Me
-**Email:** jmleman95@gmail.com
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="20" /></a> : jmleman95@gmail.com
 
 ---
 
@@ -40,6 +40,7 @@
 </a>
 
 </div>
+
 ---
 
 ## 📊 GitHub Stats
