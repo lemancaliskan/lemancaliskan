@@ -43,6 +43,28 @@
 
 ---
 
+---
+
+## 🔧 Languages & Tools
+
+<div align="center">
+
+### 🛠️ Languages & Frameworks
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,cs,dotnet,js,react,sklearn,html,css,bootstrap,postgres,matlab&theme=dark" height="40" />
+</a>
+
+<br/>
+
+### ⚙️ Tools & Software
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=pycharm,visualstudio,vscode,git,androidstudio,figma,ps&theme=dark" height="40" />
+</a>
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 ![Leman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemancaliskan&show_icons=true&bg_color=00000000&title_color=61DAFB&icon_color=61DAFB&text_color=8d93a5&count_private=true&cache_bust=1)
