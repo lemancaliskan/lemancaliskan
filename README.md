@@ -8,8 +8,16 @@
 
 ---
 
-### 📫 Reach Me
-<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="25" align="center"/></a> : jmleman95@gmail.com
+## 📫 Reach Me
+<p align="left">
+  <a href="mailto:jmleman95@gmail.com">
+    <img src="https://www.svgrepo.com/show/530453/mail-reception.svg" height="50" alt="Email Me">
+  </a>
+ 
+  <a href="https://lemancaliskan.netlify.app">
+    <img src="https://www.svgrepo.com/show/530440/machine-vision.svg" height="50" alt="Visit My Website">
+  </a>
+</p>
 
 ---
 
