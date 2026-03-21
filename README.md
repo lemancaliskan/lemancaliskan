@@ -9,15 +9,13 @@
 ---
 
 ## 📫 Reach Me
-<p align="left">
-  <a href="mailto:jmleman95@gmail.com">
-    <img src="https://www.svgrepo.com/show/530453/mail-reception.svg" height="50" alt="Email Me">
-  </a>
- 
+
+<img src="https://www.svgrepo.com/show/530453/mail-reception.svg" height="35" align="center" alt="Email"> : jmleman95@gmail.com
+
+  <img src="https://www.svgrepo.com/show/530440/machine-vision.svg" height="35" align="center" alt="Website" style="vertical-align:middle; margin-right:10px;"> :
   <a href="https://lemancaliskan.netlify.app">
-    <img src="https://www.svgrepo.com/show/530440/machine-vision.svg" height="50" alt="Visit My Website">
+    <img src="https://img.shields.io/badge/lemancaliskan.netlify.app-38C2FF?style=for-the-badge&logo=netlify&logoColor=white" height="25" align="center" alt="Netlify">
   </a>
-</p>
 
 ---
 
