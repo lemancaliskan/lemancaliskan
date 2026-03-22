@@ -52,8 +52,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lemancaliskan&show_icons=true&bg_color=00000000&title_color=61DAFB&icon_color=61DAFB&text_color=8d93a5&count_private=true&cache_bust=12" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemancaliskan&layout=donut&bg_color=00000000&title_color=61DAFB&text_color=8d93a5&count_private=true&cache_bust=12" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lemancaliskan&show_icons=true&bg_color=00000000&title_color=61DAFB&icon_color=61DAFB&text_color=8d93a5&count_private=true&cache_bust=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemancaliskan&layout=donut&bg_color=00000000&title_color=61DAFB&text_color=8d93a5&count_private=true&cache_bust=1" />
 </div>
 
 ---
@@ -64,7 +64,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lemancaliskan&theme=react&bg_color=00000000&hide_border=true&radius=5&height=300">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lemancaliskan&theme=github-light&bg_color=00000000&hide_border=true&radius=5&height=300">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lemancaliskan&theme=react&bg_color=00000000&hide_border=true&radius=5&height=300&cache_bust=12" alt="Activity Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lemancaliskan&theme=react&bg_color=00000000&hide_border=true&radius=5&height=300&cache_bust=1" alt="Activity Graph">
   </picture>
 </div>
 
