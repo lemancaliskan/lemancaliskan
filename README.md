@@ -35,14 +35,14 @@
 
 ### 🛠️ Languages & Frameworks
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,cs,dotnet,js,react,sklearn,html,css,bootstrap,postgres,matlab&theme=dark" height="40" />
+  <img src="https://skillicons.dev/icons?i=py,cs,java,dotnet,js,react,sklearn,html,css,ts,bootstrap,postgres,matlab&theme=dark" height="40" />
 </a>
 
 <br/>
 
 ### ⚙️ Tools & Software
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pycharm,visualstudio,vscode,git,androidstudio,figma,ps,netlify&theme=dark" height="40" />
+  <img src="https://skillicons.dev/icons?i=pycharm,visualstudio,vscode,git,androidstudio,figma,ps,netlify,supabase&theme=dark" height="40" />
 </a>
 
 </div>
