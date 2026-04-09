@@ -75,7 +75,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lemancaliskan&theme=react&bg_color=00000000&hide_border=true&radius=5&height=300">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lemancaliskan&theme=react-dark&bg_color=00000000&hide_border=true&radius=5&height=300">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lemancaliskan&theme=cotton candy&bg_color=00000000&hide_border=true&radius=5&height=300">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=lemancaliskan&theme=react&bg_color=00000000&hide_border=true&radius=5&height=300&cache_bust=1" alt="Activity Graph">
   </picture>
 </div>
