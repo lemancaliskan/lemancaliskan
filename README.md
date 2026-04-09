@@ -12,7 +12,7 @@
 
 <img src="https://github.com/user-attachments/assets/6a8d2c27-d738-4a54-8bff-ca37851614f3" height="35" align="center" alt="Email"> : jmleman95@gmail.com
 
-  <img src="https://github.com/user-attachments/assets/cbbd35ec-911c-4d6d-8054-9a8f178496e3" height="35" align="center" alt="Website" style="vertical-align:middle; margin-right:10px;"> :
+  <img src="https://github.com/user-attachments/assets/97ee0e0a-51f0-495e-983e-64b7dc193ee1" height="35" align="center" alt="Website" style="vertical-align:middle; margin-right:10px;"> :
   <a href="https://lemancaliskan.pages.dev">
     <img src="https://img.shields.io/badge/lemancaliskan.pages.dev-38C2FF?style=for-the-badge&logo=cloudflare&logoColor=white" height="25" align="center" alt="Netlify">
   </a> <i>(Portfolio)</i>
@@ -21,8 +21,8 @@
   <a href="https://medium.com/@lemancaliskan">
     <img src="https://img.shields.io/badge/@lemancaliskan-9E4C98?style=for-the-badge&logo=medium&logoColor=white" height="25" align="center" alt="Netlify">
   </a> <i>(Medium)</i>
-  
-  <img src="https://github.com/user-attachments/assets/fb4bb242-cc0e-4588-a891-dc406b8f5b29" height="35" align="center" alt="Medium" style="vertical-align:middle; margin-right:10px;"> :
+
+  <img src="https://github.com/user-attachments/assets/2195448d-4f90-4db7-bdd4-d1eb3dc1bed0" height="35" align="center" alt="Medium" style="vertical-align:middle; margin-right:10px;"> :
   <a href="https://dev.to/lemancaliskan">
     <img src="https://img.shields.io/badge/@lemancaliskan-38C2FF?style=for-the-badge&logo=devto&logoColor=white" height="25" align="center" alt="Netlify">
   </a> <i>(Devto)</i>
