@@ -13,8 +13,8 @@
 <img src="https://github.com/user-attachments/assets/6a8d2c27-d738-4a54-8bff-ca37851614f3" height="35" align="center" alt="Email"> : jmleman95@gmail.com
 
   <img src="https://github.com/user-attachments/assets/cbbd35ec-911c-4d6d-8054-9a8f178496e3" height="35" align="center" alt="Website" style="vertical-align:middle; margin-right:10px;"> :
-  <a href="https://lemancaliskan.netlify.app">
-    <img src="https://img.shields.io/badge/lemancaliskan.netlify.app-38C2FF?style=for-the-badge&logo=netlify&logoColor=white" height="25" align="center" alt="Netlify">
+  <a href="https://lemancaliskan.pages.dev">
+    <img src="https://img.shields.io/badge/lemancaliskan.pages.dev-38C2FF?style=for-the-badge&logo=cloudflare&logoColor=white" height="25" align="center" alt="Netlify">
   </a> <i>(Portfolio)</i>
 
   <img src="https://github.com/user-attachments/assets/d78dd7ec-8669-4be0-80f2-8384efd36a63" height="35" align="center" alt="Medium" style="vertical-align:middle; margin-right:10px;"> :
