@@ -19,7 +19,7 @@
 
   <img src="https://github.com/user-attachments/assets/d78dd7ec-8669-4be0-80f2-8384efd36a63" height="35" align="center" alt="Medium" style="vertical-align:middle; margin-right:10px;"> :
   <a href="https://medium.com/@lemancaliskan">
-    <img src="https://img.shields.io/badge/@lemancaliskan-38C2FF?style=for-the-badge&logo=medium&logoColor=white" height="25" align="center" alt="Netlify">
+    <img src="https://img.shields.io/badge/@lemancaliskan-9E4C98?style=for-the-badge&logo=medium&logoColor=white" height="25" align="center" alt="Netlify">
   </a> <i>(Medium)</i>
   
   <img src="https://github.com/user-attachments/assets/fb4bb242-cc0e-4588-a891-dc406b8f5b29" height="35" align="center" alt="Medium" style="vertical-align:middle; margin-right:10px;"> :
@@ -62,7 +62,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lemancaliskan&color=38C2FF"/>
+  <img src="https://komarev.com/ghpvc/?username=lemancaliskan&color=9E4C98"/>
  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=lemancaliskan&show_icons=true&bg_color=00000000&title_color=61DAFB&icon_color=61DAFB&text_color=8d93a5&count_private=true&cache_bust=12" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemancaliskan&layout=donut&bg_color=00000000&title_color=61DAFB&text_color=8d93a5&count_private=true&cache_bust=12" />
