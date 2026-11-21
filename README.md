@@ -34,8 +34,16 @@
 - ❤️ I enjoy working with data, creating meaningful insights and building clean analytical workflows
 - 🎯 My goal: becoming a strong data scientist / machine learning engineer
 
-  🌍 **Languages & Proficiency**
+   <p align="center">🌍 Languages & Proficiency</p>
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/tr.svg" alt="turkeyflag" width="15"/> Turkish: ▮▮▮▮▮ &nbsp;|&nbsp; <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" alt="ukflag" width="15"/> English: ▮▮▮▮▮ &nbsp;|&nbsp; <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/kr.svg" alt="koreflag" width="15"/> Korean: ▮▮▮▮▯ &nbsp;|&nbsp; <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ru.svg" alt="russianflag" width="15"/> Russian: ▮▮▮▯▯</p>
+
+---
+
+<p align="center">
+  <sub>my little crew 🐾</sub>
+  <br/>
+  <img width="200" alt="Bug, Little and Mini" align="center" src="https://github.com/user-attachments/assets/ddf67f9b-7309-4de1-afec-eddd3241f36a" />
+</p>
 
 ---
 
